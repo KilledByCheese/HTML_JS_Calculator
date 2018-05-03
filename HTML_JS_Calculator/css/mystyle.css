@@ -24,6 +24,10 @@
 	background-color: rgb(230, 230, 230);
 }
 
+.selectedOperator {
+	background-color: rgb(255, 204, 204);
+}
+
 .result_display {
 	background-color: black;
 	color: white;
