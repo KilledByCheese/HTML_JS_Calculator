@@ -28,6 +28,10 @@
 	background-color: rgb(255, 204, 204);
 }
 
+.clear {
+	font-size: 65%;
+}
+
 .result_display {
 	background-color: black;
 	color: white;
